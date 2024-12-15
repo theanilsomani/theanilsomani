@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Machine Learning, Data, Quantiative Finance, Enterprenureship, Indie Hacking.
 - 🌱 I’m currently learning Quantitative Finance and Data Analysis.
 - 💞️ I’m looking to collaborate on Any of the above.
-- 📫 How to reach me at my [twitter/X](https://x.com/it_is_Anil)
+- 📫 How to reach me at my [twitter/X](https://x.com/the_anils)
 - ⚡ Fun fact: …. Loading
 
 <!---
