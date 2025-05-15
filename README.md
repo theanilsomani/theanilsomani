@@ -4,7 +4,7 @@
 - 👀 Interested in AI, Indie Hacking, Quant Finance, Web Scraping, and Developer Tools.
 - 🌱 Currently exploring advanced data systems, automation, and financial modeling.
 - 🤝 Open to collaborating on backend-heavy projects, AI utilities, or anything that ships!
-- 📫 Let’s connect on [X/Twitter](https://x.com/the_anils)
+- 📫 Let’s connect on [X/Twitter](https://x.com/the_anils) | [LinkedIn](https://www.linkedin.com/in/anil-somani/)
 - ⚡ Fun fact: I once automated a lead-gen system that got 10+ clients in 2 months.
 
 <!---
