@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Anil
-- 👀 I’m interested in AI, Machine Learning, Data, Quantiative Finance, Enterprenureship, Indie Hacking.
-- 🌱 I’m currently learning Quantitative Finance and Data Analysis.
-- 💞️ I’m looking to collaborate on Any of the above.
-- 📫 How to reach me at my [twitter/X](https://x.com/the_anils)
-- ⚡ Fun fact: …. Loading
+- 👋 Hi, I’m Anil — Full-stack & backend developer with a passion for building scalable systems and AI-powered tools.
+- 👨‍💻 I work with Node.js, TypeScript, AWS, HonoJS & Python to build APIs, serverless apps, and real-time data pipelines.
+- 🚀 Co-founder @ ThinkFull — building tools using cloud-native and AI-first architectures.
+- 👀 Interested in AI, Indie Hacking, Quant Finance, Web Scraping, and Developer Tools.
+- 🌱 Currently exploring advanced data systems, automation, and financial modeling.
+- 🤝 Open to collaborating on backend-heavy projects, AI utilities, or anything that ships!
+- 📫 Let’s connect on [X/Twitter](https://x.com/the_anils)
+- ⚡ Fun fact: I once automated a lead-gen system that got 10+ clients in 2 months.
 
 <!---
 theanilsomani/theanilsomani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
